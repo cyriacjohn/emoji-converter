@@ -31,14 +31,3 @@ A simple text-to-emoji converter
 3. Click on the **Convert** button.
 4. The emoji codes will be converted into actual emojis and displayed below.
 
-## Example
-
-**Input**:
-```
-
-I love coding! :smile: :grinning: :heart_eyes:
-```
-```
-**Output**:
-I love coding! 😀 😄 😍
-```
