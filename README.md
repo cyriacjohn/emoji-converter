@@ -1,6 +1,8 @@
 # emoji-converter
 A simple text-to-emoji converter
 
+[!Alt text](https://github.com/cyriacjohn/emoji-converter/blob/main/screenshot.png)
+
 ## Tech Stack
 
 - **HTML**: Provides the structure of the web application.
