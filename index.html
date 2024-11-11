@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang = "en">
+  <link rel="stylesheet" href="styles.css">
+  <head>
+    <meta charset="utf-8">
+    <title>Emoji Converter</title>
+  </head>
+ 
+  <body>
+    <div class="container">
+    <h1>Emoji Converter</h1>
+    <p>
+      Enter a message below, using :emoji: codes to represent emojis:
+    </p>
+    <textarea id="input" rows="5" cols="50"></textarea>
+    <br>
+    <button onclick="convert()">Convert</button>
+    <br>
+    <p>
+      Converted message:
+    </p>
+    <div id="output"></div>
+    </div>
+    <script src="emojiMap.js"></script>
+    <script src="convert.js"></script>
+  </body>
+</html>
