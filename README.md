@@ -33,3 +33,6 @@ A simple text-to-emoji converter
 3. Click on the **Convert** button.
 4. The emoji codes will be converted into actual emojis and displayed below.
 
+## Credits
+The emojis used in this app are from the ![Emoji cheatsheet by ikatyang](https://github.com/ikatyang/emoji-cheat-sheet)
+
